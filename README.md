@@ -6,6 +6,6 @@ Predicting diabates using ML
 
 >Libraries used :
 Pandas <br>
-Numpy
-Matplotlib
-Seaborn
+Numpy <br>
+Matplotlib <br>
+Seaborn <br>
